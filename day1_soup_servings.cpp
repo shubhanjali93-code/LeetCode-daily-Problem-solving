@@ -1,3 +1,4 @@
+PROBLEM LINK: https://leetcode.com/problems/soup-servings/?envType=daily-question&envId=2025-08-06
 class Solution {
 public:
     unordered_map<int, unordered_map<int, double>> memo;
