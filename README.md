@@ -8,4 +8,8 @@
 
 ### Day3: Reordered Power of 2
 🔗 [Problem Link](https://leetcode.com/problems/reordered-power-of-2/description/?envType=daily-question&envId=2025-08-06)
-📄 [Solution File](day03_reordered_power_of_two.cpp)
+📄 [Solution File](day3_reordered_power_of_two.cpp)
+
+### Day 4: Range Product Queries of Powers
+🔗 [Problem Link](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-06)
+📄 [Solution File](day4_Range_Product_Queries_of_Powers.cpp)
